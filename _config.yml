@@ -1,2 +1,4 @@
 name: Irem Nasir, personal Website
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
